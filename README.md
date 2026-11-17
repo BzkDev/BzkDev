@@ -3,15 +3,12 @@
 
   <h2>📊 GitHub Statistics</h2>
 
-  <a href="https://github.com/BzkDev">
-    <img height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=BzkDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
+ 
+<div align="center">
 
-  <a href="https://github.com/BzkDev">
-    <img height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BzkDev&layout=compact&langs_count=8&theme=tokyonight"/>
-  </a>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,java,mysql,git,github,vscode&theme=dark" />
+
+</div>
 
 </div>
 
